@@ -1,0 +1,19 @@
+body{
+  border: 0px;
+  margin: 0px;
+}
+.monkey{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 0px;
+}
+.h1{
+  color:brown;
+}
+.semester{
+  background-color:rgb(10,165,170,0.2);
+  opacity: inherit;
+  border-radius: 20px;
+}
